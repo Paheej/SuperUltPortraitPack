@@ -1,0 +1,85 @@
+C:\Program Files (x86)\Steam\steamapps\common\Baldur's Gate Enhanced Edition>wei
+du superultportraitpack.tp2
+[weidu] WeiDU version 23800
+[./chitin.key] 73 BIFFs, 35212 resources
+[.\lang\cs_cz/dialog.tlk] claims to be writeable.
+[.\lang\cs_cz/dialog.tlk] claims to be a regular file.
+[.\lang\de_de/dialog.tlk] claims to be writeable.
+[.\lang\de_de/dialog.tlk] claims to be a regular file.
+[.\lang\de_de/dialogF.tlk] claims to be writeable.
+[.\lang\de_de/dialogF.tlk] claims to be a regular file.
+[.\lang\en_us/dialog.tlk] claims to be writeable.
+[.\lang\en_us/dialog.tlk] claims to be a regular file.
+[.\lang\es_es/dialog.tlk] claims to be writeable.
+[.\lang\es_es/dialog.tlk] claims to be a regular file.
+[.\lang\es_es/dialogF.tlk] claims to be writeable.
+[.\lang\es_es/dialogF.tlk] claims to be a regular file.
+[.\lang\fr_fr/dialog.tlk] claims to be writeable.
+[.\lang\fr_fr/dialog.tlk] claims to be a regular file.
+[.\lang\fr_fr/dialogF.tlk] claims to be writeable.
+[.\lang\fr_fr/dialogF.tlk] claims to be a regular file.
+[.\lang\it_it/dialog.tlk] claims to be writeable.
+[.\lang\it_it/dialog.tlk] claims to be a regular file.
+[.\lang\it_it/dialogF.tlk] claims to be writeable.
+[.\lang\it_it/dialogF.tlk] claims to be a regular file.
+[.\lang\ja_jp/dialog.tlk] claims to be writeable.
+[.\lang\ja_jp/dialog.tlk] claims to be a regular file.
+[.\lang\ja_jp/dialogF.tlk] claims to be writeable.
+[.\lang\ja_jp/dialogF.tlk] claims to be a regular file.
+[.\lang\ko_kr/dialog.tlk] claims to be writeable.
+[.\lang\ko_kr/dialog.tlk] claims to be a regular file.
+[.\lang\pl_pl/dialog.tlk] claims to be writeable.
+[.\lang\pl_pl/dialog.tlk] claims to be a regular file.
+[.\lang\pl_pl/dialogF.tlk] claims to be writeable.
+[.\lang\pl_pl/dialogF.tlk] claims to be a regular file.
+[.\lang\pt_br/dialog.tlk] claims to be writeable.
+[.\lang\pt_br/dialog.tlk] claims to be a regular file.
+[.\lang\pt_br/dialogF.tlk] claims to be writeable.
+[.\lang\pt_br/dialogF.tlk] claims to be a regular file.
+[.\lang\ru_ru/dialog.tlk] claims to be writeable.
+[.\lang\ru_ru/dialog.tlk] claims to be a regular file.
+[.\lang\tr_tr/dialog.tlk] claims to be writeable.
+[.\lang\tr_tr/dialog.tlk] claims to be a regular file.
+[.\lang\tr_tr/dialogF.tlk] claims to be writeable.
+[.\lang\tr_tr/dialogF.tlk] claims to be a regular file.
+[.\lang\uk_ua/dialog.tlk] claims to be writeable.
+[.\lang\uk_ua/dialog.tlk] claims to be a regular file.
+[.\lang\zh_cn/dialog.tlk] claims to be writeable.
+[.\lang\zh_cn/dialog.tlk] claims to be a regular file.
+WARNING: parsing log [WeiDU.log]: Sys_error("WeiDU.log: No such file or director
+y")
+In state 111, I expected one of these tokens:
+  [0] EOF
+  [13] AUTO_EVAL_STRINGS
+  [19] AUTO_TRA
+  [46] BEGIN
+  [47] LOAD
+  [71] UNINSTALL_ORDER
+  [80] DEFINE_ACTION_MACRO
+  [84] VERSION
+  [209] LANGUAGE
+  [223] DEFINE_PATCH_MACRO
+  [237] ALLOW_MISSING
+  [242] NO_IF_EVAL_BUG
+  [263] ASK_EVERY_COMPONENT
+  [280] MODDER
+  [282] MENU_STYLE
+  [325] QUICK_MENU
+  [369] SCRIPT_STYLE
+  [410] ALWAYS
+  [423] README
+Parse error (state 111) at COPY
+
+[superultportraitpack.tp2] PARSE ERROR at line 20 column 1-4
+Near Text: COPY
+        GLR parse error
+
+[superultportraitpack.tp2]  ERROR at line 20 column 1-4
+Near Text: COPY
+        Parsing.Parse_error
+ERROR: parsing [superultportraitpack.tp2]: Parsing.Parse_error
+ERROR: problem parsing TP file [superultportraitpack.tp2]: Parsing.Parse_error
+
+FATAL ERROR: Parsing.Parse_error
+
+Press ENTER to exit.
