@@ -1,0 +1,40 @@
+Please choose the language in which you wish to play the game.
+If you later wish to play the game in a different language you will need to edit
+ the file weidu.conf and reinstall your mods.
+ 0 [Czech]
+ 1 [German]
+ 2 [English]
+ 3 [Spanish]
+ 4 [French]
+ 5 [Italian]
+ 6 [Japanese]
+ 7 [Korean]
+ 8 [Polish]
+ 9 [Portuguese]
+10 [Russian]
+11 [Turkish]
+12 [Ukrainian]
+13 [Simplified Chinese]
+2
+[.\lang\en_us/dialog.tlk] 34000 string entries
+
+Using .\lang\en_us/dialog.tlk
+
+Install Component [Super Ultimate Portrait Pack]?
+[I]nstall, or [N]ot Install or [Q]uit? i
+
+Installing [Super Ultimate Portrait Pack]
+Copying 1 file ...
+ERROR: COPY ~SuperUltPortraitPack/portraits/FDWBA00L.bmp~ ~portraits/FDWBA00L.bm
+p~ FAILED: cannot open target
+Appending to files ...
+[./DATA/GUIBGEE.BIF] 42480436 bytes, 331 files, 0 tilesets
+Appended text to [BGEE.SQL]
+
+
+Saving This Log:
+SUPERULTPORTRAITPACK.TP2  0  0 Installed ~Super Ultimate Portrait Pack~
+
+SUCCESSFULLY INSTALLED      Super Ultimate Portrait Pack
+
+Press ENTER to exit.
